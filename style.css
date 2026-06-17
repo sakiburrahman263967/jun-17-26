@@ -1,0 +1,138 @@
+/* praimary style start  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .btn {
+  padding: 19px 36px;
+  background: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+.btn:hover {
+  transform: scale(1.05);
+} */
+
+
+
+
+/* praimary style end  */
+
+.full-navi{
+max-width: 1500px;
+  width: 100%;
+  margin: auto;
+  min-height: 100vh;
+  background-image: url('Assets/Hero-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.navi-sec{
+   padding: 60px 60px 90px 90px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navi-sec h1{
+    color: #4E47FF;
+    font-weight: bolder;
+    
+}
+
+.btn1 {
+  padding: 19px 36px;
+  background: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(146, 143, 143, 0.2);
+}
+.btn1:hover {
+  transform: scale(1.05);
+}
+
+
+.nav-text{
+    text-align: center;
+    padding-top: 80px;
+   font-size: 50px;
+}
+
+.btn2 {
+  margin-top: 20px;
+  padding: 15px 60px;
+  background: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+.btn2:hover {
+  transform: scale(1.05);
+}
+
+
+/* main section start */
+.main-section{
+  width: 1140px;
+  max-width: 95%;
+  height: 328px;
+
+  margin: 100px;
+ 
+}
+
+.main-1{
+height: 300px;
+  display: flex;
+  justify-content: space-around; 
+  align-items: center;     
+}
+
+.main-1 img{
+  width: 250px;
+  height: 220px;
+  border-radius: 10px
+}
+
+.main-1 h1 {
+  padding-bottom: 20px;
+  font-size: 60px;
+  color: blck;
+
+}
+
+.main-1 p{
+  padding-bottom: 20px;
+  font-size: 20px;
+  color: #252432;
+}
+
+.btn3 {
+  margin-top: 10px;
+  padding: 15px 60px;
+  background: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+.btn3:hover {
+  transform: scale(1.05);
+}
