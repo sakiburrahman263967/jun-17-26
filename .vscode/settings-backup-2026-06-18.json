@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 18,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.enablePreview": false,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "chat.viewSessions.orientation": "stacked",
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
